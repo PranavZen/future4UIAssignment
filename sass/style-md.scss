@@ -1,0 +1,45 @@
+@media (min-width: 426px) and (max-width: 768px) {
+
+    // Slider start
+  #slider {
+    height: 100% !important;
+    .img_txt {
+      margin-top: 0 !important;
+
+      h2 {
+        font-size: 4rem;
+        margin-top: 8rem;
+        padding-right: 2.8rem;
+      }
+    }
+    .open_btn {
+      button {
+        padding: 1rem 4rem;
+
+        font-size: 1.8rem;
+        font-weight: 500;
+      }
+    }
+    .dots_top {
+      display: none;
+    }
+    .dots_bottom {
+      display: none;
+    }
+    .arrow {
+      margin-top: 6rem;
+    }
+  }
+// Cutomer-Car start
+  #cutomer_care {
+    .card {
+      .card-body {
+        .card_img {
+          img {
+            width: 15rem;
+          }
+        }
+      }
+    }
+  }
+}

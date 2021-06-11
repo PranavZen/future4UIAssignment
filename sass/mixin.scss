@@ -1,0 +1,28 @@
+@mixin h4_prop {
+  color: #fff;
+  font-size: 1.6rem;
+}
+
+@mixin para_prop {
+  color: #fff;
+  font-size: 1.2rem;
+}
+@mixin h2_section {
+  font-size: 5.4rem;
+  color: #1b3281;
+  font-weight: 700;
+  margin-bottom: 3rem;
+}
+@mixin h3_section {
+  font-size: 2.8rem;
+  color: #ff0000;
+}
+
+@mixin img_prop {
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+

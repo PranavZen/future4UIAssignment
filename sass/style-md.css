@@ -1,0 +1,31 @@
+@media (min-width: 426px) and (max-width: 768px) {
+  #slider {
+    height: 100% !important;
+  }
+  #slider .img_txt {
+    margin-top: 0 !important;
+  }
+  #slider .img_txt h2 {
+    font-size: 4rem;
+    margin-top: 8rem;
+    padding-right: 2.8rem;
+  }
+  #slider .open_btn button {
+    padding: 1rem 4rem;
+    font-size: 1.8rem;
+    font-weight: 500;
+  }
+  #slider .dots_top {
+    display: none;
+  }
+  #slider .dots_bottom {
+    display: none;
+  }
+  #slider .arrow {
+    margin-top: 6rem;
+  }
+  #cutomer_care .card .card-body .card_img img {
+    width: 15rem;
+  }
+}
+/*# sourceMappingURL=style-md.css.map */
